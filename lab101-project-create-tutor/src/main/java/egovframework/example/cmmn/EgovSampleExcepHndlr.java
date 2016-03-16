@@ -25,7 +25,7 @@ import org.slf4j.LoggerFactory;
  * @Description : EgovSampleExcepHndlr Class
  * @Modification Information
  * @
- * @  수정일      수정자              수정내용	TEST
+ * @  수정일      수정자              수정내용
  * @ ---------   ---------   -------------------------------
  * @ 2009.03.16           최초생성
  *
